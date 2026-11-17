@@ -1,4 +1,4 @@
 plugins { id 'com.android.application' }
 android { namespace 'com.voicex.pro'; compileSdk 35
- defaultConfig { applicationId 'com.voicex.pro'; minSdk 26; targetSdk 34; versionCode 4; versionName '0.4' }
+ defaultConfig { applicationId 'com.voicex.pro'; minSdk 26; targetSdk 34; versionCode 5; versionName '0.5' }
 }
