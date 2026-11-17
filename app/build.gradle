@@ -2,3 +2,5 @@ plugins { id 'com.android.application' }
 android { namespace 'com.voicex.pro'; compileSdk 35
  defaultConfig { applicationId 'com.voicex.pro'; minSdk 26; targetSdk 34; versionCode 7; versionName '0.7' }
 }
+
+dependencies { implementation 'com.microsoft.onnxruntime:onnxruntime-android:1.20.0' }
